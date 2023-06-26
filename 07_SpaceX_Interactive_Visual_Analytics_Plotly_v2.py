@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Import required libraries
 import pandas as pd
 import dash
@@ -112,7 +106,7 @@ if __name__ == '__main__':
     app.run_server()
 
 
-# In[ ]:
+
 
 
 
